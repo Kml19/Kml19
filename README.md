@@ -10,6 +10,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... HTML 
 - 💬 Ask me about ... Anything 
 - 📫 How to reach me: ... Discord = kml#7007
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... 
--->
+
